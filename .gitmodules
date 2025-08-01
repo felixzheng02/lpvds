@@ -1,6 +1,6 @@
 [submodule "src/damm"]
 	path = src/damm
-	url = https://github.com/SunannnSun/damm.git
+	url = https://github.com/felixzheng02/damm.git
 [submodule "src/dsopt"]
 	path = src/dsopt
-	url = https://github.com/SunannnSun/dsopt.git
+	url = https://github.com/felixzheng02/dsopt.git
