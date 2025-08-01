@@ -1,6 +1,6 @@
 [submodule "src/damm"]
 	path = src/damm
-	url = https://github.com/felixzheng02/damm.git
+	url = https://github.com/felixzheng02/damm_cpp.git
     branch = ds_policy
 [submodule "src/dsopt"]
 	path = src/dsopt
